@@ -1,0 +1,44 @@
+body{
+    height: 10000px;
+}
+.img-fluid{
+    width: 80%;
+    height: 70%;
+}
+
+
+
+h2{
+    height: 350px;
+    width: 100%
+    
+}
+
+
+.Nanum{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
+
+.Dohyeon{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 40px;
+    
+}
+
+footer{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+
+.item {
+    padding: 16px;
+}
+
+.textbox{
+    position: relative;
+    top: 220px;
+    left: center;
+}
+

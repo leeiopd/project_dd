@@ -1,0 +1,78 @@
+body{
+    height: 10000px;
+}
+.img-fluid{
+    width: 80%;
+    height: 70%;
+}
+
+
+
+h2{
+    height: 350px;
+    width: 100%;
+    position: center;
+    
+}
+
+
+.Nanum{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
+
+.Dohyeon{
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 40px;
+    
+}
+
+footer{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+
+.item {
+    padding: 16px;
+
+}
+
+.textbox{
+    position: relative;
+    top: 240px;
+    left: center;
+}
+
+.subtitle{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+h3:after{
+    content:"";
+    display: block;
+    width: 70px;
+    border-bottom:2px solid goldenrod;
+    margin: auto;
+}
+
+.card{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card-title{
+    width: 60px;
+    margin: auto auto;
+}
+
+
+h4 {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 27px;
+}
+
+.card-title{
+    width: 13rem;
+}
